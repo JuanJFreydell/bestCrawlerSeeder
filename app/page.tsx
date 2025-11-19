@@ -1,16 +1,9 @@
 export default function Home() {
   const links = [
-    "https://www.bbc.com/",
-    "https://www.cnn.com/",
-    "https://www.reuters.com/",
-    "https://www.nytimes.com/",
-    "https://www.theguardian.com/",
-    "https://www.wikipedia.org/",
-    "https://www.stackoverflow.com/",
-    "https://www.nih.gov/",
-    "https://www.nasa.gov/",
-    "https://www.microsoft.com/",
-    "https://www.apple.com/"
+    "/business",
+    "/health",
+    "/news",
+    "/science"
   ];
 
   return (
