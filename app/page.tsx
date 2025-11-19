@@ -3,7 +3,8 @@ export default function Home() {
     "/business",
     "/health",
     "/news",
-    "/science"
+    "/science",
+    "/standard-crawl-sites"
   ];
 
   return (
